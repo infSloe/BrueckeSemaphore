@@ -7,7 +7,7 @@ public class Main
     // Attribute
 
     // Methoden
-    public void los()
+    public static void main(String[] args)
     {
 
         Aufgabe aufgabe  = new Aufgabe();
